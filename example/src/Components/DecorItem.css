@@ -1,0 +1,165 @@
+.Item{
+    z-index: 1;
+}
+ .pad{
+  padding-left: 220px;
+}  
+
+
+.box{
+    background-size: cover;
+}
+
+.row1,.row2,.row3{
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.column1{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("a.JPG"); 
+    background-size: cover;
+}
+
+.column2{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("c.JPG");
+    background-size: cover;
+}
+
+.column3{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("d.JPG");
+    background-size: cover;
+}
+
+.column4{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("x.jpg");
+    background-size: cover;
+}
+
+.column5{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("b.JPG");
+    background-size: cover;
+}
+
+.column6{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("e.JPG");
+    background-size: cover;
+}
+
+.column7{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("j.jpg");
+    background-size: cover;
+}
+
+.column8{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("g.jpg");
+    background-size: cover;
+}
+
+.column9{
+    width: 70%;
+    padding: 70px;
+    height: 200px;
+    background-image: url("k.jpg");
+    background-size: cover;
+}
+
+.rowt1{
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.rowt2{
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.rowt3{
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.columnt1{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt2{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt3{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt4{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt5{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt6{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt7{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt8{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}
+
+.columnt9{
+    width: 70%;
+    padding: 70px;
+    height: 10%;
+}

@@ -1,0 +1,51 @@
+.column10 {
+    float: center;
+    width: 50%;
+    padding: 10px;
+    height: 200px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row10 {
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr ;
+  }
+  .column20 {
+    float: center;
+    width: 50%;
+    padding: 10px;
+    height: 200px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row20 {
+    content: "";
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  
+  .Pay {
+    background-color: rgb(239, 231, 231);
+    padding: 2rem;
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  button {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: black;
+    padding: 10px 20px;
+  }
+  
+  button:hover {
+    background: #6cf0c2;
+  }

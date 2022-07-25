@@ -1,0 +1,93 @@
+.Foodmenu{
+    z-index: 1;
+}
+
+th{
+    font-size: x-large;
+}
+
+td{
+    font-size: large;
+}
+
+.img1{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Starter.jpg");
+    background-size: cover;
+}
+
+.img2{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Soup.jpg");
+    background-size: cover;
+}
+
+.img3{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Sweet.jpg");
+    background-size: cover;
+}
+
+.img4{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Sabji.jpg");
+    background-size: cover;
+}
+
+.img5{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Roti.jpg");
+    background-size: cover;
+}
+
+.img6{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("RiceDal.jpg");
+    background-size: cover;
+}
+
+.img7{
+    width: 300px;
+    padding: 50px;
+    height: 200px;
+    background-image: url("Icecream.jpg");
+    background-size: cover;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color: #1e71df;
+    border: none;
+    color: white;
+    padding: 5px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }

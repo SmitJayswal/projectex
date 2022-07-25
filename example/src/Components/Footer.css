@@ -1,0 +1,6 @@
+.Image {
+    background-image: url("hello.jpg");
+    background-size: cover;
+    height: 400px;
+    
+}

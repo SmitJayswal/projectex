@@ -1,0 +1,12 @@
+.aaa  {
+    border: 2px solid;
+    height: 50px;
+    width: 90%;
+  } 
+
+  th , td{
+    border: 1px solid;
+ } 
+ .pad{
+  padding-left: 80px;
+}  
